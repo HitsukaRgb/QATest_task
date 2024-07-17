@@ -2,6 +2,8 @@ import inspect
 import pytest
 import requests
 import json
+
+from Report import wright_log_file
 from random_date_for_request import get_random_parametrize_for_request
 
 
@@ -25,8 +27,8 @@ def test_rout_multiplication_numbers(random_data_for_request: dict, rout_multipl
         response_status_message = result.get("statusMessage", None)
     report_string = f"ERROR {inspect.currentframe().f_code.co_name} ->> {get_date_time} {response_status_code=} {expect_status_code=} {x=} {y=} {response_result=} {expect_result=} {response_status_message=} {expect_status_message=}"
     if response_result:
-        assert response_result == expect_result, report_string
+        assert response_result == expect_result, wright_log_file(report_string)
     if response_status_code:
-        assert response_status_code == expect_status_code, report_string
+        assert response_status_code == expect_status_code, wright_log_file(report_string)
     if response_status_code != 0:
-        assert response_status_message == expect_status_message, report_string
+        assert response_status_message == expect_status_message, wright_log_file(report_string)

@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5104c471-a6f1-498e-9192-b6577d564481" name="Changes" comment="Мое тестовое задание на позицию тестировщика.">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webcalculator.log" beforeDir="false" afterPath="$PROJECT_DIR$/webcalculator.log" afterDir="false" />
+    <list default="true" id="5104c471-a6f1-498e-9192-b6577d564481" name="Changes" comment=".Nikolay">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,11 +186,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721240545271</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".Nikolay">
+      <option name="closed" value="true" />
+      <created>1721243317605</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721243317606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Мое тестовое задание на позицию тестировщика." />
-    <option name="LAST_COMMIT_MESSAGE" value="Мое тестовое задание на позицию тестировщика." />
+    <MESSAGE value=".Nikolay" />
+    <option name="LAST_COMMIT_MESSAGE" value=".Nikolay" />
   </component>
 </project>
