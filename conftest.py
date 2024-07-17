@@ -1,7 +1,7 @@
 from datetime import datetime
 from pytest import fixture
 
-URL_BASE = "http://localhost:12000/api/"
+URL_BASE = "http://localhost:17678/api/"
 
 
 @fixture

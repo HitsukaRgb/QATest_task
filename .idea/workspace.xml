@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5104c471-a6f1-498e-9192-b6577d564481" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/InfoTeKC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_date_for_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_web_calculator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_web_calculator/test_addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_web_calculator/test_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_web_calculator/test_multiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_web_calculator/test_remainder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_web_calculator/test_state.py" afterDir="false" />
+    <list default="true" id="5104c471-a6f1-498e-9192-b6577d564481" name="Changes" comment="Мое тестовое задание на позицию тестировщика.">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webcalculator.log" beforeDir="false" afterPath="$PROJECT_DIR$/webcalculator.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +48,7 @@
     &quot;Python.dasdasdastest_app (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.some_test_app.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Nikolay&quot;
   }
 }</component>
@@ -192,6 +181,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721147256957</updated>
     </task>
+    <task id="LOCAL-00001" summary="Мое тестовое задание на позицию тестировщика.">
+      <option name="closed" value="true" />
+      <created>1721240545271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721240545271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Мое тестовое задание на позицию тестировщика." />
+    <option name="LAST_COMMIT_MESSAGE" value="Мое тестовое задание на позицию тестировщика." />
   </component>
 </project>
